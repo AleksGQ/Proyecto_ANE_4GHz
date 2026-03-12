@@ -1,5 +1,5 @@
-# Proyecto_ANE_4GHz
-Análisis de convivencia IMT-uOndas en banda de 4400-4800 MHz
+# Proyecto ANE 4GHz
+Análisis de convivencia IMT-uOndas en la banda de 4400 MHz a 4800 MHz (_n79_).
 
 ## Contenido de este repo
 **- Data:** Los archivos de datos crudos que contienen las mediciones realizadas durante las campañas para cada uno de los escenarios.
