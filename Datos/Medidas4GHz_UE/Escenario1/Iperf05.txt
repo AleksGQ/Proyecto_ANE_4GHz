@@ -1,0 +1,262 @@
+Connecting to host 10.45.0.1, port 5201
+[  5] local 192.168.225.59 port 45962 connected to 10.45.0.1 port 5201
+[  7] local 192.168.225.59 port 45974 connected to 10.45.0.1 port 5201
+[ ID][Role] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5][TX-C]   0.00-1.00   sec  2.00 MBytes  16.8 Mbits/sec    0    159 KBytes       
+[  7][RX-C]   0.00-1.00   sec  8.25 MBytes  69.1 Mbits/sec                  
+[  5][TX-C]   1.00-2.00   sec  2.50 MBytes  21.0 Mbits/sec    0    267 KBytes       
+[  7][RX-C]   1.00-2.00   sec  16.0 MBytes   134 Mbits/sec                  
+[  5][TX-C]   2.00-3.00   sec  1.88 MBytes  15.7 Mbits/sec    0    350 KBytes       
+[  7][RX-C]   2.00-3.00   sec  11.0 MBytes  92.3 Mbits/sec                  
+[  5][TX-C]   3.00-4.00   sec  1.38 MBytes  11.5 Mbits/sec   55    276 KBytes       
+[  7][RX-C]   3.00-4.00   sec  10.2 MBytes  86.0 Mbits/sec                  
+[  5][TX-C]   4.00-5.00   sec  2.75 MBytes  23.1 Mbits/sec    0    321 KBytes       
+[  7][RX-C]   4.00-5.00   sec  14.5 MBytes   122 Mbits/sec                  
+[  5][TX-C]   5.00-6.00   sec  2.62 MBytes  22.0 Mbits/sec    0    351 KBytes       
+[  7][RX-C]   5.00-6.00   sec  14.8 MBytes   124 Mbits/sec                  
+[  5][TX-C]   6.00-7.00   sec  2.25 MBytes  18.9 Mbits/sec    0    370 KBytes       
+[  7][RX-C]   6.00-7.00   sec  14.9 MBytes   125 Mbits/sec                  
+[  5][TX-C]   7.00-8.00   sec  1.25 MBytes  10.5 Mbits/sec   42    263 KBytes       
+[  7][RX-C]   7.00-8.00   sec  8.50 MBytes  71.3 Mbits/sec                  
+[  5][TX-C]   8.00-9.00   sec  2.62 MBytes  22.0 Mbits/sec    0    290 KBytes       
+[  7][RX-C]   8.00-9.00   sec  13.9 MBytes   116 Mbits/sec                  
+[  5][TX-C]   9.00-10.00  sec  2.12 MBytes  17.8 Mbits/sec    0    308 KBytes       
+[  7][RX-C]   9.00-10.00  sec  14.4 MBytes   121 Mbits/sec                  
+[  5][TX-C]  10.00-11.00  sec  2.75 MBytes  23.1 Mbits/sec    0    317 KBytes       
+[  7][RX-C]  10.00-11.00  sec  14.6 MBytes   123 Mbits/sec                  
+[  5][TX-C]  11.00-12.00  sec  2.25 MBytes  18.9 Mbits/sec    0    320 KBytes       
+[  7][RX-C]  11.00-12.00  sec  14.0 MBytes   117 Mbits/sec                  
+[  5][TX-C]  12.00-13.00  sec  2.75 MBytes  23.1 Mbits/sec    0    320 KBytes       
+[  7][RX-C]  12.00-13.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  13.00-14.00  sec  2.50 MBytes  21.0 Mbits/sec    0    320 KBytes       
+[  7][RX-C]  13.00-14.00  sec  14.9 MBytes   125 Mbits/sec                  
+[  5][TX-C]  14.00-15.00  sec  2.25 MBytes  18.9 Mbits/sec    0    325 KBytes       
+[  7][RX-C]  14.00-15.00  sec  15.1 MBytes   127 Mbits/sec                  
+[  5][TX-C]  15.00-16.00  sec  2.75 MBytes  23.1 Mbits/sec    0    336 KBytes       
+[  7][RX-C]  15.00-16.00  sec  14.9 MBytes   125 Mbits/sec                  
+[  5][TX-C]  16.00-17.00  sec  2.62 MBytes  22.0 Mbits/sec    0    357 KBytes       
+[  7][RX-C]  16.00-17.00  sec  15.2 MBytes   128 Mbits/sec                  
+[  5][TX-C]  17.00-18.00  sec  2.75 MBytes  23.1 Mbits/sec    0    390 KBytes       
+[  7][RX-C]  17.00-18.00  sec  14.4 MBytes   121 Mbits/sec                  
+[  5][TX-C]  18.00-19.00  sec  2.50 MBytes  21.0 Mbits/sec    0    438 KBytes       
+[  7][RX-C]  18.00-19.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  19.00-20.00  sec  2.75 MBytes  23.1 Mbits/sec    0    507 KBytes       
+[  7][RX-C]  19.00-20.00  sec  14.8 MBytes   124 Mbits/sec                  
+[  5][TX-C]  20.00-21.00  sec  2.50 MBytes  21.0 Mbits/sec   26    391 KBytes       
+[  7][RX-C]  20.00-21.00  sec  14.8 MBytes   124 Mbits/sec                  
+[  5][TX-C]  21.00-22.00  sec  2.50 MBytes  21.0 Mbits/sec    0    442 KBytes       
+[  7][RX-C]  21.00-22.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  22.00-23.00  sec  2.50 MBytes  21.0 Mbits/sec    0    479 KBytes       
+[  7][RX-C]  22.00-23.00  sec  14.4 MBytes   121 Mbits/sec                  
+[  5][TX-C]  23.00-24.00  sec  1.88 MBytes  15.7 Mbits/sec    0    500 KBytes       
+[  7][RX-C]  23.00-24.00  sec  8.38 MBytes  70.3 Mbits/sec                  
+[  5][TX-C]  24.00-25.00  sec  2.50 MBytes  21.0 Mbits/sec  125    373 KBytes       
+[  7][RX-C]  24.00-25.00  sec  14.9 MBytes   125 Mbits/sec                  
+[  5][TX-C]  25.00-26.00  sec  2.38 MBytes  19.9 Mbits/sec    0    400 KBytes       
+[  7][RX-C]  25.00-26.00  sec  14.5 MBytes   122 Mbits/sec                  
+[  5][TX-C]  26.00-27.00  sec  2.50 MBytes  21.0 Mbits/sec    0    416 KBytes       
+[  7][RX-C]  26.00-27.00  sec  15.0 MBytes   126 Mbits/sec                  
+[  5][TX-C]  27.00-28.00  sec  2.50 MBytes  21.0 Mbits/sec    0    424 KBytes       
+[  7][RX-C]  27.00-28.00  sec  14.4 MBytes   121 Mbits/sec                  
+[  5][TX-C]  28.00-29.00  sec  3.00 MBytes  25.2 Mbits/sec    0    425 KBytes       
+[  7][RX-C]  28.00-29.00  sec  14.5 MBytes   122 Mbits/sec                  
+[  5][TX-C]  29.00-30.00  sec  2.50 MBytes  21.0 Mbits/sec    0    425 KBytes       
+[  7][RX-C]  29.00-30.00  sec  14.4 MBytes   121 Mbits/sec                  
+[  5][TX-C]  30.00-31.00  sec  1.25 MBytes  10.5 Mbits/sec    0    427 KBytes       
+[  7][RX-C]  30.00-31.00  sec  6.75 MBytes  56.6 Mbits/sec                  
+[  5][TX-C]  31.00-32.00  sec  2.00 MBytes  16.8 Mbits/sec   72    332 KBytes       
+[  7][RX-C]  31.00-32.00  sec  13.4 MBytes   112 Mbits/sec                  
+[  5][TX-C]  32.00-33.00  sec  2.50 MBytes  21.0 Mbits/sec    0    374 KBytes       
+[  7][RX-C]  32.00-33.00  sec  13.6 MBytes   114 Mbits/sec                  
+[  5][TX-C]  33.00-34.00  sec  3.12 MBytes  26.2 Mbits/sec    0    402 KBytes       
+[  7][RX-C]  33.00-34.00  sec  13.9 MBytes   116 Mbits/sec                  
+[  5][TX-C]  34.00-35.00  sec  2.50 MBytes  21.0 Mbits/sec    0    417 KBytes       
+[  7][RX-C]  34.00-35.00  sec  13.9 MBytes   116 Mbits/sec                  
+[  5][TX-C]  35.00-36.00  sec  2.38 MBytes  19.9 Mbits/sec    0    425 KBytes       
+[  7][RX-C]  35.00-36.00  sec  14.6 MBytes   123 Mbits/sec                  
+[  5][TX-C]  36.00-37.00  sec  2.50 MBytes  21.0 Mbits/sec    0    427 KBytes       
+[  7][RX-C]  36.00-37.00  sec  15.2 MBytes   128 Mbits/sec                  
+[  5][TX-C]  37.00-38.00  sec  2.50 MBytes  21.0 Mbits/sec    0    427 KBytes       
+[  7][RX-C]  37.00-38.00  sec  15.5 MBytes   130 Mbits/sec                  
+[  5][TX-C]  38.00-39.00  sec  3.00 MBytes  25.2 Mbits/sec    0    428 KBytes       
+[  7][RX-C]  38.00-39.00  sec  15.0 MBytes   126 Mbits/sec                  
+[  5][TX-C]  39.00-40.00  sec  2.50 MBytes  21.0 Mbits/sec    0    433 KBytes       
+[  7][RX-C]  39.00-40.00  sec  14.8 MBytes   124 Mbits/sec                  
+[  5][TX-C]  40.00-41.00  sec  2.50 MBytes  21.0 Mbits/sec    0    446 KBytes       
+[  7][RX-C]  40.00-41.00  sec  15.2 MBytes   128 Mbits/sec                  
+[  5][TX-C]  41.00-42.00  sec  2.50 MBytes  21.0 Mbits/sec    0    469 KBytes       
+[  7][RX-C]  41.00-42.00  sec  14.9 MBytes   125 Mbits/sec                  
+[  5][TX-C]  42.00-43.00  sec  2.38 MBytes  19.9 Mbits/sec    0    504 KBytes       
+[  7][RX-C]  42.00-43.00  sec  14.5 MBytes   122 Mbits/sec                  
+[  5][TX-C]  43.00-44.00  sec  3.12 MBytes  26.2 Mbits/sec    7    386 KBytes       
+[  7][RX-C]  43.00-44.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  44.00-45.00  sec  1.25 MBytes  10.5 Mbits/sec    0    430 KBytes       
+[  7][RX-C]  44.00-45.00  sec  7.62 MBytes  64.0 Mbits/sec                  
+[  5][TX-C]  45.00-46.00  sec  2.50 MBytes  21.0 Mbits/sec   72    326 KBytes       
+[  7][RX-C]  45.00-46.00  sec  14.0 MBytes   117 Mbits/sec                  
+[  5][TX-C]  46.00-47.00  sec  2.50 MBytes  21.0 Mbits/sec    0    350 KBytes       
+[  7][RX-C]  46.00-47.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  47.00-48.00  sec  2.38 MBytes  19.9 Mbits/sec    0    365 KBytes       
+[  7][RX-C]  47.00-48.00  sec  14.1 MBytes   118 Mbits/sec                  
+[  5][TX-C]  48.00-49.00  sec  2.50 MBytes  21.0 Mbits/sec    0    371 KBytes       
+[  7][RX-C]  48.00-49.00  sec  14.8 MBytes   124 Mbits/sec                  
+[  5][TX-C]  49.00-50.00  sec  3.12 MBytes  26.2 Mbits/sec    0    371 KBytes       
+[  7][RX-C]  49.00-50.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  50.00-51.00  sec  1.75 MBytes  14.7 Mbits/sec    2    361 KBytes       
+[  7][RX-C]  50.00-51.00  sec  13.2 MBytes   111 Mbits/sec                  
+[  5][TX-C]  51.00-52.00  sec  2.50 MBytes  21.0 Mbits/sec   67    295 KBytes       
+[  7][RX-C]  51.00-52.00  sec  13.9 MBytes   116 Mbits/sec                  
+[  5][TX-C]  52.00-53.00  sec  2.50 MBytes  21.0 Mbits/sec    0    330 KBytes       
+[  7][RX-C]  52.00-53.00  sec  13.6 MBytes   114 Mbits/sec                  
+[  5][TX-C]  53.00-54.00  sec  2.50 MBytes  21.0 Mbits/sec    0    353 KBytes       
+[  7][RX-C]  53.00-54.00  sec  14.0 MBytes   117 Mbits/sec                  
+[  5][TX-C]  54.00-55.00  sec  2.38 MBytes  19.9 Mbits/sec    0    366 KBytes       
+[  7][RX-C]  54.00-55.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  55.00-56.00  sec  3.12 MBytes  26.2 Mbits/sec    0    371 KBytes       
+[  7][RX-C]  55.00-56.00  sec  14.8 MBytes   124 Mbits/sec                  
+[  5][TX-C]  56.00-57.00  sec  2.50 MBytes  21.0 Mbits/sec    0    371 KBytes       
+[  7][RX-C]  56.00-57.00  sec  14.6 MBytes   123 Mbits/sec                  
+[  5][TX-C]  57.00-58.00  sec  2.50 MBytes  21.0 Mbits/sec    0    371 KBytes       
+[  7][RX-C]  57.00-58.00  sec  14.1 MBytes   118 Mbits/sec                  
+[  5][TX-C]  58.00-59.00  sec  2.38 MBytes  19.9 Mbits/sec    0    374 KBytes       
+[  7][RX-C]  58.00-59.00  sec  13.8 MBytes   115 Mbits/sec                  
+[  5][TX-C]  59.00-60.00  sec  2.50 MBytes  21.0 Mbits/sec    0    382 KBytes       
+[  7][RX-C]  59.00-60.00  sec  14.4 MBytes   121 Mbits/sec                  
+[  5][TX-C]  60.00-61.00  sec  3.12 MBytes  26.2 Mbits/sec    0    398 KBytes       
+[  7][RX-C]  60.00-61.00  sec  14.8 MBytes   124 Mbits/sec                  
+[  5][TX-C]  61.00-62.00  sec  2.50 MBytes  21.0 Mbits/sec    0    425 KBytes       
+[  7][RX-C]  61.00-62.00  sec  14.5 MBytes   122 Mbits/sec                  
+[  5][TX-C]  62.00-63.00  sec  2.38 MBytes  19.9 Mbits/sec    0    467 KBytes       
+[  7][RX-C]  62.00-63.00  sec  14.5 MBytes   122 Mbits/sec                  
+[  5][TX-C]  63.00-64.00  sec  2.50 MBytes  21.0 Mbits/sec   15    353 KBytes       
+[  7][RX-C]  63.00-64.00  sec  14.6 MBytes   123 Mbits/sec                  
+[  5][TX-C]  64.00-65.00  sec  2.50 MBytes  21.0 Mbits/sec    0    407 KBytes       
+[  7][RX-C]  64.00-65.00  sec  15.1 MBytes   127 Mbits/sec                  
+[  5][TX-C]  65.00-66.00  sec  2.50 MBytes  21.0 Mbits/sec    0    445 KBytes       
+[  7][RX-C]  65.00-66.00  sec  14.2 MBytes   120 Mbits/sec                  
+[  5][TX-C]  66.00-67.00  sec  3.00 MBytes  25.2 Mbits/sec    0    470 KBytes       
+[  7][RX-C]  66.00-67.00  sec  13.6 MBytes   114 Mbits/sec                  
+[  5][TX-C]  67.00-68.00  sec  0.00 Bytes  0.00 bits/sec    0    474 KBytes       
+[  7][RX-C]  67.00-68.00  sec  1.88 MBytes  15.7 Mbits/sec                  
+[  5][TX-C]  68.00-69.00  sec  2.50 MBytes  21.0 Mbits/sec  143    351 KBytes       
+[  7][RX-C]  68.00-69.00  sec  11.5 MBytes  96.5 Mbits/sec                  
+[  5][TX-C]  69.00-70.00  sec  2.50 MBytes  21.0 Mbits/sec    0    380 KBytes       
+[  7][RX-C]  69.00-70.00  sec  12.6 MBytes   106 Mbits/sec                  
+[  5][TX-C]  70.00-71.00  sec  2.38 MBytes  19.9 Mbits/sec    0    399 KBytes       
+[  7][RX-C]  70.00-71.00  sec  13.0 MBytes   109 Mbits/sec                  
+[  5][TX-C]  71.00-72.00  sec  2.50 MBytes  21.0 Mbits/sec    0    408 KBytes       
+[  7][RX-C]  71.00-72.00  sec  13.8 MBytes   115 Mbits/sec                  
+[  5][TX-C]  72.00-73.00  sec  3.12 MBytes  26.2 Mbits/sec    0    411 KBytes       
+[  7][RX-C]  72.00-73.00  sec  13.5 MBytes   113 Mbits/sec                  
+[  5][TX-C]  73.00-74.00  sec  1.88 MBytes  15.7 Mbits/sec    0    411 KBytes       
+[  7][RX-C]  73.00-74.00  sec  10.2 MBytes  86.0 Mbits/sec                  
+[  5][TX-C]  74.00-75.00  sec  2.00 MBytes  16.8 Mbits/sec   67    301 KBytes       
+[  7][RX-C]  74.00-75.00  sec  10.9 MBytes  91.2 Mbits/sec                  
+[  5][TX-C]  75.00-76.00  sec  2.38 MBytes  19.9 Mbits/sec    0    348 KBytes       
+[  7][RX-C]  75.00-76.00  sec  13.8 MBytes   115 Mbits/sec                  
+[  5][TX-C]  76.00-77.00  sec  2.50 MBytes  21.0 Mbits/sec    0    379 KBytes       
+[  7][RX-C]  76.00-77.00  sec  13.6 MBytes   114 Mbits/sec                  
+[  5][TX-C]  77.00-78.00  sec  2.50 MBytes  21.0 Mbits/sec    0    398 KBytes       
+[  7][RX-C]  77.00-78.00  sec  13.2 MBytes   111 Mbits/sec                  
+[  5][TX-C]  78.00-79.00  sec  2.38 MBytes  19.9 Mbits/sec    0    408 KBytes       
+[  7][RX-C]  78.00-79.00  sec  13.0 MBytes   109 Mbits/sec                  
+[  5][TX-C]  79.00-80.00  sec  2.75 MBytes  23.1 Mbits/sec   56    301 KBytes       
+[  7][RX-C]  79.00-80.00  sec  12.0 MBytes   101 Mbits/sec                  
+[  5][TX-C]  80.00-81.00  sec  2.38 MBytes  19.9 Mbits/sec    0    348 KBytes       
+[  7][RX-C]  80.00-81.00  sec  12.9 MBytes   108 Mbits/sec                  
+[  5][TX-C]  81.00-82.00  sec  2.50 MBytes  21.0 Mbits/sec    0    379 KBytes       
+[  7][RX-C]  81.00-82.00  sec  12.9 MBytes   108 Mbits/sec                  
+[  5][TX-C]  82.00-83.00  sec  3.12 MBytes  26.2 Mbits/sec    0    399 KBytes       
+[  7][RX-C]  82.00-83.00  sec  12.9 MBytes   108 Mbits/sec                  
+[  5][TX-C]  83.00-84.00  sec  2.50 MBytes  21.0 Mbits/sec    0    408 KBytes       
+[  7][RX-C]  83.00-84.00  sec  12.6 MBytes   106 Mbits/sec                  
+[  5][TX-C]  84.00-85.00  sec  2.38 MBytes  19.9 Mbits/sec    0    411 KBytes       
+[  7][RX-C]  84.00-85.00  sec  12.8 MBytes   107 Mbits/sec                  
+[  5][TX-C]  85.00-86.00  sec  2.50 MBytes  21.0 Mbits/sec    0    411 KBytes       
+[  7][RX-C]  85.00-86.00  sec  12.6 MBytes   106 Mbits/sec                  
+[  5][TX-C]  86.00-87.00  sec  2.50 MBytes  21.0 Mbits/sec    0    411 KBytes       
+[  7][RX-C]  86.00-87.00  sec  12.6 MBytes   106 Mbits/sec                  
+[  5][TX-C]  87.00-88.00  sec  1.25 MBytes  10.5 Mbits/sec    0    412 KBytes       
+[  7][RX-C]  87.00-88.00  sec  6.62 MBytes  55.6 Mbits/sec                  
+[  5][TX-C]  88.00-89.00  sec  1.88 MBytes  15.7 Mbits/sec   78    296 KBytes       
+[  7][RX-C]  88.00-89.00  sec  6.38 MBytes  53.5 Mbits/sec                  
+[  5][TX-C]  89.00-90.00  sec  1.75 MBytes  14.7 Mbits/sec   52    238 KBytes       
+[  7][RX-C]  89.00-90.00  sec  10.4 MBytes  87.0 Mbits/sec                  
+[  5][TX-C]  90.00-91.00  sec  1.88 MBytes  15.7 Mbits/sec    0    259 KBytes       
+[  7][RX-C]  90.00-91.00  sec  9.50 MBytes  79.7 Mbits/sec                  
+[  5][TX-C]  91.00-92.00  sec  0.00 Bytes  0.00 bits/sec    1    274 KBytes       
+[  7][RX-C]  91.00-92.00  sec  1.50 MBytes  12.6 Mbits/sec                  
+[  5][TX-C]  92.00-93.00  sec  2.50 MBytes  21.0 Mbits/sec   16    230 KBytes       
+[  7][RX-C]  92.00-93.00  sec  10.5 MBytes  88.1 Mbits/sec                  
+[  5][TX-C]  93.00-94.00  sec  1.88 MBytes  15.7 Mbits/sec    0    258 KBytes       
+[  7][RX-C]  93.00-94.00  sec  10.4 MBytes  87.0 Mbits/sec                  
+[  5][TX-C]  94.00-95.00  sec  2.38 MBytes  19.9 Mbits/sec    0    275 KBytes       
+[  7][RX-C]  94.00-95.00  sec  10.4 MBytes  87.0 Mbits/sec                  
+[  5][TX-C]  95.00-96.00  sec  2.50 MBytes  21.0 Mbits/sec    0    284 KBytes       
+[  7][RX-C]  95.00-96.00  sec  10.2 MBytes  86.0 Mbits/sec                  
+[  5][TX-C]  96.00-97.00  sec  2.50 MBytes  21.0 Mbits/sec    0    286 KBytes       
+[  7][RX-C]  96.00-97.00  sec  10.4 MBytes  87.0 Mbits/sec                  
+[  5][TX-C]  97.00-98.00  sec  2.50 MBytes  21.0 Mbits/sec    0    286 KBytes       
+[  7][RX-C]  97.00-98.00  sec  9.25 MBytes  77.6 Mbits/sec                  
+[  5][TX-C]  98.00-99.00  sec  2.38 MBytes  19.9 Mbits/sec    0    286 KBytes       
+[  7][RX-C]  98.00-99.00  sec  10.2 MBytes  86.0 Mbits/sec                  
+[  5][TX-C]  99.00-100.00 sec  2.50 MBytes  21.0 Mbits/sec    0    291 KBytes       
+[  7][RX-C]  99.00-100.00 sec  10.2 MBytes  86.0 Mbits/sec                  
+[  5][TX-C] 100.00-101.00 sec  2.50 MBytes  21.0 Mbits/sec    0    301 KBytes       
+[  7][RX-C] 100.00-101.00 sec  9.88 MBytes  82.8 Mbits/sec                  
+[  5][TX-C] 101.00-102.00 sec  1.88 MBytes  15.7 Mbits/sec    0    317 KBytes       
+[  7][RX-C] 101.00-102.00 sec  7.62 MBytes  64.0 Mbits/sec                  
+[  5][TX-C] 102.00-103.00 sec  1.88 MBytes  15.7 Mbits/sec   36    249 KBytes       
+[  7][RX-C] 102.00-103.00 sec  6.25 MBytes  52.4 Mbits/sec                  
+[  5][TX-C] 103.00-104.00 sec  1.75 MBytes  14.7 Mbits/sec    0    290 KBytes       
+[  7][RX-C] 103.00-104.00 sec  8.12 MBytes  68.2 Mbits/sec                  
+[  5][TX-C] 104.00-105.00 sec  2.50 MBytes  21.0 Mbits/sec    0    313 KBytes       
+[  7][RX-C] 104.00-105.00 sec  8.88 MBytes  74.4 Mbits/sec                  
+[  5][TX-C] 105.00-106.00 sec  2.50 MBytes  21.0 Mbits/sec    0    328 KBytes       
+[  7][RX-C] 105.00-106.00 sec  8.88 MBytes  74.4 Mbits/sec                  
+[  5][TX-C] 106.00-107.00 sec   640 KBytes  5.24 Mbits/sec    0    330 KBytes       
+[  7][RX-C] 106.00-107.00 sec   896 KBytes  7.34 Mbits/sec                  
+[  5][TX-C] 107.00-108.00 sec  1.88 MBytes  15.7 Mbits/sec   83    274 KBytes       
+[  7][RX-C] 107.00-108.00 sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5][TX-C] 108.00-109.00 sec  2.38 MBytes  19.9 Mbits/sec    0    312 KBytes       
+[  7][RX-C] 108.00-109.00 sec  7.50 MBytes  62.9 Mbits/sec                  
+[  5][TX-C] 109.00-110.00 sec  1.88 MBytes  15.7 Mbits/sec    0    337 KBytes       
+[  7][RX-C] 109.00-110.00 sec  7.38 MBytes  61.9 Mbits/sec                  
+[  5][TX-C] 110.00-111.00 sec  1.88 MBytes  15.7 Mbits/sec    0    346 KBytes       
+[  7][RX-C] 110.00-111.00 sec  4.88 MBytes  40.9 Mbits/sec                  
+[  5][TX-C] 111.00-112.00 sec   640 KBytes  5.24 Mbits/sec   23    159 KBytes       
+[  7][RX-C] 111.00-112.00 sec  2.00 MBytes  16.8 Mbits/sec                  
+[  5][TX-C] 112.00-113.00 sec  1.25 MBytes  10.5 Mbits/sec   72    203 KBytes       
+[  7][RX-C] 112.00-113.00 sec  6.12 MBytes  51.4 Mbits/sec                  
+[  5][TX-C] 113.00-114.00 sec  1.88 MBytes  15.7 Mbits/sec    0    246 KBytes       
+[  7][RX-C] 113.00-114.00 sec  6.25 MBytes  52.4 Mbits/sec                  
+[  5][TX-C] 114.00-115.00 sec  1.75 MBytes  14.7 Mbits/sec    0    274 KBytes       
+[  7][RX-C] 114.00-115.00 sec  6.25 MBytes  52.4 Mbits/sec                  
+[  5][TX-C] 115.00-116.00 sec  1.88 MBytes  15.7 Mbits/sec    0    286 KBytes       
+[  7][RX-C] 115.00-116.00 sec  4.25 MBytes  35.7 Mbits/sec                  
+[  5][TX-C] 116.00-117.00 sec  1.88 MBytes  15.7 Mbits/sec   58    217 KBytes       
+[  7][RX-C] 116.00-117.00 sec  5.75 MBytes  48.2 Mbits/sec                  
+[  5][TX-C] 117.00-118.00 sec  1.25 MBytes  10.5 Mbits/sec    0    234 KBytes       
+[  7][RX-C] 117.00-118.00 sec  5.38 MBytes  45.1 Mbits/sec                  
+[  5][TX-C] 118.00-119.00 sec  1.88 MBytes  15.7 Mbits/sec    0    245 KBytes       
+[  7][RX-C] 118.00-119.00 sec  5.38 MBytes  45.1 Mbits/sec                  
+[  5][TX-C] 119.00-120.00 sec  1.88 MBytes  15.7 Mbits/sec    0    247 KBytes       
+[  7][RX-C] 119.00-120.00 sec  5.75 MBytes  48.2 Mbits/sec                  
+[  5][TX-C] 120.00-121.00 sec  1.12 MBytes  9.44 Mbits/sec    0    247 KBytes       
+[  7][RX-C] 120.00-121.00 sec  3.62 MBytes  30.4 Mbits/sec                  
+[  5][TX-C] 121.00-122.00 sec  1.25 MBytes  10.5 Mbits/sec   35    176 KBytes       
+[  7][RX-C] 121.00-122.00 sec  2.88 MBytes  24.1 Mbits/sec                  
+[  5][TX-C] 122.00-123.00 sec  1.88 MBytes  15.7 Mbits/sec    0    211 KBytes       
+[  7][RX-C] 122.00-123.00 sec  6.12 MBytes  51.4 Mbits/sec                  
+[  5][TX-C] 123.00-124.00 sec  1.88 MBytes  15.7 Mbits/sec    0    232 KBytes       
+[  7][RX-C] 123.00-124.00 sec  5.50 MBytes  46.1 Mbits/sec                  
+[  5][TX-C] 124.00-125.00 sec  2.50 MBytes  21.0 Mbits/sec    0    244 KBytes       
+[  7][RX-C] 124.00-125.00 sec  6.25 MBytes  52.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID][Role] Interval           Transfer     Bitrate         Retr
+[  5][TX-C]   0.00-125.00 sec   282 MBytes  18.9 Mbits/sec  1203            sender
+[  5][TX-C]   0.00-125.05 sec   280 MBytes  18.8 Mbits/sec                  receiver
+[  7][RX-C]   0.00-125.00 sec  1.41 GBytes  96.6 Mbits/sec  537            sender
+[  7][RX-C]   0.00-125.05 sec  1.40 GBytes  96.3 Mbits/sec                  receiver
+
+iperf Done.
