@@ -4,7 +4,7 @@
 <img width="935" height="480" alt="image" src="https://github.com/user-attachments/assets/cf400a9b-ca15-46b7-92d7-58c8d39e8dcc" />
 
 ## Contenido de este repo
-- **Data:** Los archivos de datos crudos que contienen las mediciones realizadas durante las campañas para cada uno de los escenarios.
+- **Datos:** Los archivos de datos crudos que contienen las mediciones realizadas durante las campañas para cada uno de los escenarios.
 - **Scripts:** Scripts de Python tanto para la automatización de la medición como para el análisis de datos. Incluye los flowgraphs de GNU Radio utilizados.
-- **Documents:** Documentos de salida del proceso de medición (Informe y Anexos).
-- **Resources:** Archivos adicionales como fotos, capturas de pantalla, videos, etc.
+- **Documentos:** Documentos de salida del proceso de medición (Informe y Anexos).
+- **Recursos:** Archivos adicionales como fotos, capturas de pantalla, videos, etc.
